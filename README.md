@@ -9,3 +9,16 @@ You can find out the following vulnerabilities in this app:
 3. Vulnerable Exported activities.
 4. Insecure data storage.
 5. Insecure logging.
+
+FireVu Installation Notes
+
+    1. Android 9 (pie) device or use genymotion android 9 emulator
+
+     2. Work with screen size :1080*1920 1080*2010
+ 
+     3. Disable verify apps over USB. 
+    
+     4. Install Open GApps and AMR translation in genymotion
+
+     5. App requires internet for user login.(Firebase Authentication)
+ 
