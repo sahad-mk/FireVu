@@ -12,9 +12,9 @@ You can find out the following vulnerabilities in this app:
 
 # FireVu Installation Notes
 
-     1. Android 9 (pie) device or use genymotion android 9 emulator.
+     1. Supported Version: Android 9 (pie) device or use genymotion android 9 emulator.
 
-     2. Work well with screen size :1080*1920 and 1080*2010.
+     2. Supporte screen sizes :1080*1920 and 1080*2010.
  
      3. Disable verify apps over USB. 
     
