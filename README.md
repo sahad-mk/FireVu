@@ -40,9 +40,19 @@ For Misconfigured Firebase vulnerability reference, ![Misconfigured Firebase Wri
  
 ## Screenshots
 
-The following screenshot shows the attack suraface of the application.
+1. The following screenshot shows the attack suraface of the application.
 
 ![Firevu attack_surface](https://github.com/sahad-mk/FireVu/blob/master/Images/attack_suraface.png)
+
+2. User Registration (Enable Internet Access).
+
+   ![user registration](https://github.com/sahad-mk/FireVu/blob/master/Images/register.png)
+   
+   You can use any random email id. There is no email verification (can't register with an email which is already exist)
+   
+3. User Login (Enable Internet Access)
+
+   ![user login](https://github.com/sahad-mk/FireVu/blob/master/Images/login.png)
         
         
       
