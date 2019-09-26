@@ -48,7 +48,7 @@ For Misconfigured Firebase vulnerability reference, ![Misconfigured Firebase Wri
 
    <img src=https://github.com/sahad-mk/FireVu/blob/master/Images/register.png height="250" width="150">
    
-   **You can use any random email id. There is no email verification(But you can't register with an email which is already used)                   
+   ** You can use any random email id. There is no email verification(But you can't register with an email which is already used)                   
  .  
 3. User Login (Enable Internet Access)
 
