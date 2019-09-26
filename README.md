@@ -26,11 +26,17 @@ FireVu is an intentionally vulnerable Android application developed for Android 
 
 ## Installation
      
-        1. Download the FireVu.apk file
+        1. Download the FireVu.apk file.
         
-        2. Drag and Drop the FireVu.apk file into genymotion emulator.
+        2. Open apk file and tap 'Install'.
         
-        3. Disable verify apps over USB.
+        3. Enable Install Unknown apps.
         
-        4. Enable Install Unknown apps
+        4. Drag and drop the FireVu.apk file into genymotion emulator.
+        
+        5. Disable verify apps over USB.
+ 
+## Screenshots
+        
+        
       
