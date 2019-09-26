@@ -40,7 +40,7 @@ For Misconfigured Firebase vulnerability reference,Check my ![Misconfigured Fire
  
 ## Screenshots
 
-1. The following screenshot shows the attack suraface of the application.
+1. Attack suraface of the application.
 
    ![Firevu attack_surface](https://github.com/sahad-mk/FireVu/blob/master/Images/attack_suraface.png)
 
