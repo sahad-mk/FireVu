@@ -43,12 +43,14 @@ For Misconfigured Firebase vulnerability reference,Check my ![Misconfigured Fire
 1. Attack suraface of the application.
 
    ![Firevu attack_surface](https://github.com/sahad-mk/FireVu/blob/master/Images/attack_suraface.png)
+   
 
 2. User Registration (Enable Internet Access).
 
    <img src=https://github.com/sahad-mk/FireVu/blob/master/Images/register.png height="250" width="200">
    
-   You can use any random email id.There is no email verification (But you can't register with an email which is already in use).                   
+   You can use any random email id.There is no email verification (But you can't register with an email which is already in use).
+   
    
 3. User Login (Enable Internet Access)
 
