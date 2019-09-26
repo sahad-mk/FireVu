@@ -11,14 +11,14 @@ FireVu is an intentionally vulnerable Android application developed for Android 
 3. Vulnerable Exported activities.
 4. Insecure data storage.
 5. Insecure logging.
-6. Android Backup vulnerability
-7. Application Debuggable
+6. Android Backup vulnerability.
+7. Application Debuggable.
 
 ###### Prerequisites
 
      1. Supported Version: Android 9 (pie) device or use genymotion android 9 emulator.
 
-     2. Supporte screen sizes :1080*1920 and 1080*2010.
+     2. Supported(Tested) screen sizes :1080*1920 and 1080*2010.
  
      3. Disable verify apps over USB. 
     
