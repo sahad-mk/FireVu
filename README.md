@@ -55,7 +55,7 @@ For Misconfigured Firebase vulnerability reference, ![Misconfigured Firebase Wri
    
    <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/login.png" height="250" width="150">
    
-   Login with your registered account or use the default credentials []().
+   Login with your registered account or use the default credentials [Credentials](https://github.com/sahad-mk/FireVu/blob/master/credentials.txt).
         
         
       
