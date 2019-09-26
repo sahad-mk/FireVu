@@ -9,6 +9,8 @@ You can find out the following vulnerabilities in this app:
 3. Vulnerable Exported activities.
 4. Insecure data storage.
 5. Insecure logging.
+6. Android Backup vulnerability
+7. Application Debuggable
 
 # FireVu Installation Notes
 
