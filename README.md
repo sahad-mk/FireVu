@@ -46,14 +46,14 @@ For Misconfigured Firebase vulnerability reference, ![Misconfigured Firebase Wri
 
 2. User Registration (Enable Internet Access).
 
-   <img src=https://github.com/sahad-mk/FireVu/blob/master/Images/register.png height="350" width="150">
+   <img src=https://github.com/sahad-mk/FireVu/blob/master/Images/register.png height="250" width="150">
    
    You can use any random email id. There is no email verification (can't register with an email which is already exist)
    
 3. User Login (Enable Internet Access)
 
    
-   <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/login.png" height="350" width="150">
+   <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/login.png" height="250" width="150">
         
         
       
