@@ -14,6 +14,8 @@ FireVu is an intentionally vulnerable Android application developed for Android 
 6. Android Backup vulnerability.
 7. Application Debuggable.
 
+For Misconfigured Firebase reference, ![Misconfigured Firebase](https://github.com/sahad-mk/FireVu/blob/master/Misconfigured%20Firebase%20Database.pdf)
+
 ## Prerequisites
 
      1. Supported Version: Android 9 (pie) device or use genymotion android 9 emulator.
