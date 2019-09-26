@@ -37,6 +37,9 @@ FireVu is an intentionally vulnerable Android application developed for Android 
         5. Disable verify apps over USB.
  
 ## Screenshots
+
+The following screenshots show the attack suraface of the application.
+![Firevu attack_surface](https://github.com/sahad-mk/FireVu/blob/master/Images/attack_suraface.png)
         
         
       
