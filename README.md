@@ -52,7 +52,8 @@ For Misconfigured Firebase vulnerability reference, ![Misconfigured Firebase Wri
    
 3. User Login (Enable Internet Access)
 
-   ![user login](https://github.com/sahad-mk/FireVu/blob/master/Images/login.png){:height="24px" width="48px"}
+   ![user login](https://github.com/sahad-mk/FireVu/blob/master/Images/login.png)
+   <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/login.png" height="24">
         
         
       
