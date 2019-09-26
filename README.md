@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/Firevu_Splash.png" height="400" width="350"></p>
+<p align="center"> <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/Firevu_Splash.png" height="500" width="400"></p>
 <p align="center"> FireVu - Intentionally Vulnerable Android Application </p>
 
 ## Introduction
