@@ -1,5 +1,5 @@
-![Firevu logo](https://github.com/sahad-mk/FireVu/blob/master/Images/Firevu_Splash.png)
-<p align="center">###### FireVu - Intentionally Vulnerable Android Application </p>
+<p align="center"> <img src="https://github.com/sahad-mk/FireVu/blob/master/Images/Firevu_Splash.png" height="400" width="350"></p>
+<p align="center"> FireVu - Intentionally Vulnerable Android Application </p>
 
 ## Introduction
 FireVu is an intentionally vulnerable Android application developed for Android open source security. The initial goal was to demonstrate the misconfigured Firebase database of mobile apps. I have added a few more vulnerabilities for learning purpose.
