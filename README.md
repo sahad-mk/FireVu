@@ -20,9 +20,17 @@ FireVu is an intentionally vulnerable Android application developed for Android 
 
      2. Supported(Tested) screen sizes :1080*1920 and 1080*2010.
  
-     3. Disable verify apps over USB. 
-    
-     4. Install Open GApps and ARM translation in genymotion.
+     3. Install Open GApps and ARM translation in genymotion.
 
-     5. App requires internet for user login.(Firebase Authentication).
- 
+     5. App requires internet for user login (Firebase Authentication).
+
+## Installation
+     
+        1. Download the FireVu.apk file
+        
+        2. Drag and Drop the FireVu.apk file into genymotion emulator.
+        
+        3. Disable verify apps over USB.
+        
+        4. Enable Install Unknown apps
+      
