@@ -3,7 +3,7 @@
 
 ## FireVu
 
-![SH.an](https://img.shields.io/badge/version-1.0-success)   ![Android](https://img.shields.io/badge/Android-important)   ![Tested](https://img.shields.io/badge/Tested%20On-Android%2018.04-green) [![Linkedin](https://img.shields.io/badge/Linkedin-/Sahadmk-blue)](https://www.linkedin.com/in/sahadmk)
+![SH.an](https://img.shields.io/badge/version-1.0-success)   ![Android](https://img.shields.io/badge/Android-important)   ![Tested](https://img.shields.io/badge/Tested%20On-Android%209(pie)-green) [![Linkedin](https://img.shields.io/badge/Linkedin-/Sahadmk-blue)](https://www.linkedin.com/in/sahadmk)
 
 ## Introduction
 FireVu is an intentionally vulnerable Android application developed for Android open source security. The initial goal was to demonstrate the misconfigured Firebase database of mobile apps. I have added a few more vulnerabilities for learning purpose.
